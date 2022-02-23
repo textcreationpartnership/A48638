@@ -1,0 +1,1134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of all the adventurers in the mine-adventure. May the first, 1700 Note, those marked *** are qualified by their shares to be elected of the select committee. And those marked ** are qualified to vote in a general meeting: and no person has more than one vote.</title>
+            <title>Lists. 1700-05-01.</title>
+            <author>Corporation of the Mine Adventurers of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48638</idno>
+            <idno type="STC">Wing L2377</idno>
+            <idno type="STC">ESTC R215524</idno>
+            <idno type="EEBO-CITATION">99827378</idno>
+            <idno type="PROQUEST">99827378</idno>
+            <idno type="VID">31796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31796)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1891:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of all the adventurers in the mine-adventure. May the first, 1700 Note, those marked *** are qualified by their shares to be elected of the select committee. And those marked ** are qualified to vote in a general meeting: and no person has more than one vote.</title>
+                  <title>Lists. 1700-05-01.</title>
+                  <author>Corporation of the Mine Adventurers of England.</author>
+               </titleStmt>
+               <extent>4p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by F. Collins in the Old-Baily,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Includes at end: "A list of the present committee", the lead name of which is the Duke of Leeds.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712 --  Early works to 1800.</term>
+               <term>Corporation of the Mine Adventurers of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb n="1" facs="tcp:31796:1"/>
+            <head>A LIST OF ALL THE ADVENTURERS IN THE Mine-Adventure.</head>
+            <opener>
+               <date>
+                  <hi>May</hi> the Firſt, 1700.</date>
+            </opener>
+            <p>Note, Thoſe marked *** are qualified by their Shares to be E<g ref="char:EOLhyphen"/>lected of the Select Committee. And thoſe marked ** are qualified to Vote in a Grand Committee; And thoſe mark<g ref="char:EOLhyphen"/>ed *, are qualified to Vote in a General Meeting: And no Perſon has more then one Vote.</p>
+            <p>*** <hi>The moſt Noble his Grace the Duke of</hi> Leeds <hi>Governour.</hi>
+            </p>
+            <p>*** <hi>Sir</hi> Humphrey Mackworth <hi>Deputy-Governour.</hi>
+            </p>
+            <list>
+               <head>A</head>
+               <item>** <hi>THE Honourable</hi> Sa<g ref="char:EOLhyphen"/>muel Atkins, <hi>Eſq</hi>
+               </item>
+               <item>** Roger Atcherley, <hi>Eſq</hi>
+               </item>
+               <item>* <hi>Sir</hi> William Aſhhurſt</item>
+               <item>* Mr Samuel Aſhhurſt</item>
+               <item>* Mr Francis Andreas</item>
+               <item>* Mr James Adams</item>
+               <item>* Mrs Lucy Alderſon</item>
+               <item>* Mr Robert Aſhbridge</item>
+               <item>* Mr Cornelius Alſton</item>
+               <item>Mr Richard Adams</item>
+               <item>Mr John Arnaud</item>
+               <item>Mr Nathaniel Adams</item>
+               <item>
+                  <hi>The Lady</hi> Ann Andrews</item>
+               <item>Mr Edward Andrews</item>
+               <item>Mr Peter De L'Angle</item>
+               <item>Mrs Mary Aſtell</item>
+               <item>Mrs Elizabeth Atcherley</item>
+               <item>Mrs Frances Anderſon</item>
+               <item>
+                  <hi>The Right Honourable the Lady Dowager</hi> Aberga<g ref="char:EOLhyphen"/>veny</item>
+               <item>Mrs Chriſtian Allen</item>
+               <item>Mr John Adams</item>
+               <item>Mr Henry Atcherley</item>
+               <item>Mrs Ann Aſhbridge</item>
+               <item>Mrs Mary Aſhbridge</item>
+               <item>
+                  <hi>The Honourable the Lady</hi> Diana Allington</item>
+               <item>Mrs Diana Allington</item>
+               <item>Mr Gabriel Armiger</item>
+               <item>Mr Edward Ailmer</item>
+               <item>Mr Henry Auſtin</item>
+               <item>Mrs Mary Alſton</item>
+               <item>Mr William Arnold</item>
+               <item>Mr Thomas Allome</item>
+               <item>Mr Francis Ambroſe</item>
+               <item>Mr Anthony Ayons</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>*** THomas Bretton, <hi>Eſq</hi>
+               </item>
+               <item>** <hi>The Right Honoura<g ref="char:EOLhyphen"/>ble the Earl of</hi> Bol<g ref="char:EOLhyphen"/>lingbrook</item>
+               <item>** <hi>The Right Honourable</hi> Foulke <hi>Lord</hi> Brooke</item>
+               <item>** Mrs Hannah Brooks</item>
+               <item>* Mr Samuel Blundell</item>
+               <item>* Mrs Mary Barnes</item>
+               <item>* Thomas Brotherton, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Robert Burſcough</item>
+               <item>* Mrs Elizabeth Tyrring<g ref="char:EOLhyphen"/>ham Backwell</item>
+               <item>* Mr William Brooke</item>
+               <item>* Thomas Burgh, <hi>Eſq</hi>
+               </item>
+               <item>* Robert Bertie, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Peter Bevet</item>
+               <item>* Mrs Elizabeth Bralesford</item>
+               <item>* Mr Giles Beene</item>
+               <item>* Mr Abram Browne</item>
+               <item>* Mr Philip Bovet</item>
+               <item>* John Butler, <hi>Eſq</hi>
+               </item>
+               <item>* Mr John Bridger</item>
+               <item>* Mr Edward Bridge</item>
+               <item>Mrs Bridget Bromfield and J. Norcliffe</item>
+               <item>
+                  <hi>Sir</hi> Robert Bedingfield</item>
+               <item>Mrs Mary Birch, and Mrs Ann Wright</item>
+               <item>Mr Robert Brooks</item>
+               <item>Mrs Anne Bull</item>
+               <item>Dr Arthur Bury</item>
+               <item>William Ball, <hi>Eſq</hi>
+               </item>
+               <item>James Blake, <hi>Eſq</hi>
+               </item>
+               <item>Mr Humphrey Bralesford</item>
+               <item>Mr Robert Barber</item>
+               <item>Mrs Ann Bradſhaw</item>
+               <item>Mrs Jane Bickerſtaffe</item>
+               <item>Mrs Sarah Boone</item>
+               <item>Mr Thomas Bootes</item>
+               <item>Mr William Burd</item>
+               <item>Mr Levinus Buſh</item>
+               <item>Mr James Buckley</item>
+               <item>Mr Samuel Brunts</item>
+               <item>Mr John Blundell</item>
+               <item>Mr Walter Buchanan</item>
+               <item>Mr Henry Bradſhaw</item>
+               <item>Mr Thomas Bates</item>
+               <item>Mr Dennis Blackman</item>
+               <item>Mr Charles Baxter</item>
+               <item>Mr James Bamber</item>
+               <item>Mr William Brand</item>
+               <item>Mr Samuel Blackerby</item>
+               <item>Mr Edward Brazier</item>
+               <item>Mr William Baynes</item>
+               <item>Mr John Banniſter</item>
+               <item>Mr Thomas Baynes</item>
+               <item>Mr Bellamy</item>
+               <item>Mr Francis Bezard</item>
+               <item>Mrs Ann Brownlow</item>
+               <item>Mrs Rebecca Bendy</item>
+               <item>Mr James Beeby</item>
+               <item>
+                  <hi>The Right Honourable the Counteſs of</hi> Bellamoun</item>
+               <item>John Blencowe, <hi>Eſq</hi>
+               </item>
+               <item>Mr Samuel Bridge</item>
+               <item>Mr Thomas Bromfield</item>
+               <item>Mr Marmaduke Browne</item>
+               <item>Mr Nathaniel Brooke</item>
+               <item>Mr Henry Buck</item>
+               <item>Mr Frederick Bode</item>
+               <item>John Brownlow, <hi>Eſq</hi>
+               </item>
+               <item>Mr Andrew Buckley</item>
+               <item>Mrs Hannah Burford</item>
+               <item>Mr Francis Bugg</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>*** Mr RIchard Curtis</item>
+               <item>*** Mr Rich. Chancey</item>
+               <item>*** Mr Freeman Collins</item>
+               <item>*** Mrs Elizabeth Childers</item>
+               <item>*** Mr John Caſtaing Jun.</item>
+               <item>*** Mr Gamaliel Cheſter</item>
+               <item>** Mr Joſeph Cagnoni</item>
+               <item>** Hatton Compton, <hi>Eſq</hi>
+               </item>
+               <item>** Mrs Mary Cope</item>
+               <item>** <hi>Sir</hi> Thomas Cuddon</item>
+               <item>* Mr William Chancey</item>
+               <item>* Mr Edward Carleton</item>
+               <item>
+                  <hi>The Right Honourable the Marchioneſs of</hi> Carmar<g ref="char:EOLunhyphen"/>than</item>
+               <pb n="2" facs="tcp:31796:2"/>
+               <item>*<hi>The Honourable</hi> Robert Cecil, <hi>Eſq</hi>
+               </item>
+               <item>* Mr. Criſpe</item>
+               <item>* Toby Chancey, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Robert Chandler</item>
+               <item>* Mrs Mary Cholmeley</item>
+               <item>* Mr Jacob Cowtreſſe</item>
+               <item>* Mr John Clarke</item>
+               <item>* Mr Robert Coney</item>
+               <item>* Mr Robert Collman</item>
+               <item>Mr Richard Canning</item>
+               <item>Mr John Crawley</item>
+               <item>Mr John Chamberlaine</item>
+               <item>Mr William Champion.</item>
+               <item>Mr James Chambers</item>
+               <item>Mrs Catharine Creſſett</item>
+               <item>Mrs Sarah Chicheley</item>
+               <item>Mr John Colebatch</item>
+               <item>
+                  <hi>The Right Honourable</hi> Henry <hi>Lord</hi> Colraine</item>
+               <item>Capt. Richard Culliford</item>
+               <item>Capt. Charles Cratchrode</item>
+               <item>Mr Francis Cater</item>
+               <item>Mrs Elizabeth Crawley</item>
+               <item>Mr Peter Chaſſeloup</item>
+               <item>Mrs Elizabeth Cary</item>
+               <item>Mr Samuel Cripps</item>
+               <item>Mr Charles Chriſtian</item>
+               <item>Mr Richard Cooke</item>
+               <item>Mr John Cuſſack</item>
+               <item>Mr Edward Crull</item>
+               <item>Mr Clifford Clutterbuck</item>
+               <item>Mr Thomas Codd</item>
+               <item>Mrs Margaret Cattero</item>
+               <item>Mr Henry Clarke</item>
+               <item>Mr Edward Carter</item>
+               <item>Mr Thomas Carey</item>
+               <item>Mrs Ann Chandler</item>
+               <item>Mrs Elizabeth Clayton</item>
+               <item>Mrs Mary Chandler</item>
+               <item>Mrs Elinor Caſtle</item>
+               <item>Mr Samuel Cerda</item>
+               <item>Mr Joſeph Cerda</item>
+               <item>Mr Thomas Cheſter</item>
+               <item>Mrs Iſabel Cingano</item>
+               <item>Mrs Catherine Cotton</item>
+               <item>Mr Joſeph Collins</item>
+               <item>Mr Robert Colebatch</item>
+               <item>Mrs Catharine Cope</item>
+               <item>Mr John Coggs</item>
+               <item>Mrs Mary Corbet</item>
+               <item>Mrs Cludd</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>*** PAul Docminique, <hi>Eſq</hi>
+               </item>
+               <item>*** Mr John Dillingham</item>
+               <item>* <hi>The Right Honourable the Lord</hi> Digby</item>
+               <item>* Thomas Done, <hi>Eſq</hi>
+               </item>
+               <item>* John Ducket, <hi>Eſq</hi>
+               </item>
+               <item>Mr John Davies</item>
+               <item>Mr Elias Deleau</item>
+               <item>Dame Judith Deveaux, and Mrs Margaret Collins</item>
+               <item>Mr Michael Dahl</item>
+               <item>Mrs Sarah Dent</item>
+               <item>Mrs Alicia Deveaux</item>
+               <item>Gwyton Doughty, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Gettrid Dufor</item>
+               <item>Mrs Mary Duhamel</item>
+               <item>
+                  <hi>The Lady</hi> Deveaux</item>
+               <item>Robert Dobbins, <hi>Eſq</hi>
+               </item>
+               <item>Francis Duncomb, <hi>Eſq</hi>
+               </item>
+               <item>Mr George Davenant</item>
+               <item>Mr Francis Dandridge</item>
+               <item>Mr Joſeph Day</item>
+               <item>Mr Lewis Dehaver</item>
+               <item>Mrs Mary Deering</item>
+               <item>Mr Richard Dibben</item>
+               <item>Mr Thomas Douſe</item>
+               <item>Mr George Dottin</item>
+               <item>Mrs Elizabeth Downing</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>** Mr Kenrick Edisbury</item>
+               <item>** Dr John Evans</item>
+               <item>** Mr Thomas Edwards</item>
+               <item>* Mr Francis Elliſon</item>
+               <item>* Mr James Edgell</item>
+               <item>Mrs Suſannah Everard</item>
+               <item>Mr Samuel Edgley</item>
+               <item>Dr Etwell</item>
+               <item>
+                  <hi>The Lady</hi> Evans <hi>deceaſed</hi>
+               </item>
+               <item>Thomas Edwards <hi>Eſq</hi>
+               </item>
+               <item>Mr Francis Edwards</item>
+               <item>Mr John Ellis</item>
+               <item>Mr John Emes</item>
+               <item>Philip Egerton, <hi>Eſq</hi>
+               </item>
+               <item>Mr Uſher Eſtwick</item>
+               <item>Mrs Jane Elkin</item>
+               <item>
+                  <hi>The Poor of</hi> Empingham</item>
+               <item>Iſabella Elliſon</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>** THomas Frederick <hi>Eſq</hi>
+               </item>
+               <item>** Zachary Foxall <hi>Eſq</hi>
+               </item>
+               <item>* Henry Farmer, <hi>Eſq</hi>
+               </item>
+               <item>* Mr George and Thomas Finch</item>
+               <item>* William Freeman, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Morgan Francis</item>
+               <item>* Mr Robert Fowles</item>
+               <item>Mr James Folkingham</item>
+               <item>
+                  <hi>Sir</hi> William Forreſter</item>
+               <item>Mr James Fayrer</item>
+               <item>Mr William Faldo</item>
+               <item>Mr Edward Fowler</item>
+               <item>John Fownes, <hi>Eſq</hi>
+               </item>
+               <item>Thomas Filmer, <hi>Eſq</hi>
+               </item>
+               <item>Mr John Faldoe</item>
+               <item>Mr Thomas Farmer</item>
+               <item>Mrs Rebecca Ferrars</item>
+               <item>Mr Jonathan Freeman</item>
+               <item>Mr John Freke</item>
+               <item>Mr William Fry</item>
+               <item>Mr Stephen Fry</item>
+               <item>Mr Robert Finch</item>
+               <item>Mr Henry Fownes</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>** <hi>THE Right Honoura<g ref="char:EOLhyphen"/>ble the Lord</hi> Guil<g ref="char:EOLhyphen"/>ford</item>
+               <item>** Mr Giles Grix</item>
+               <item>* Mr John Glover</item>
+               <item>* Mr Edward Grace</item>
+               <item>* <hi>The Right Reverend</hi> Ed<g ref="char:EOLhyphen"/>ward <hi>Lord Biſhop of</hi> Gloceſter</item>
+               <item>* Michael Glydd, <hi>Eſq</hi>
+               </item>
+               <item>* Robert Greene</item>
+               <item>* Richard Grevet</item>
+               <item>* Mr Benjamin Gladman</item>
+               <item>
+                  <hi>The Right Honourable the Earl of</hi> Gainsborough</item>
+               <item>Mr John Gardner</item>
+               <item>Mr Arthur Gaudy</item>
+               <item>Mr John James Gaches</item>
+               <item>Mr James Glasford</item>
+               <item>Mr Eben. Gatton</item>
+               <item>Mr James Gramer</item>
+               <item>Mr Edward Grace</item>
+               <item>Mrs Suſannah Galloway</item>
+               <item>Mrs Ann Greene</item>
+               <item>Mrs Ceculia Goad</item>
+               <item>Mr John Gerrard</item>
+               <item>Mr Garret Fitz-Gerald</item>
+               <item>Mr Thomas Greene</item>
+               <item>Mrs Mary Gunter</item>
+               <item>Mr John Geaſt</item>
+               <item>Mrs Grace Gent</item>
+               <item>Mr John Grevill</item>
+               <item>Mr Thomas Gibbs</item>
+               <item>Mrs Jane Gifford</item>
+               <item>Mr George Guy</item>
+               <item>Mrs Judith Griffin</item>
+               <item>Mrs Margaret Gouge</item>
+               <item>Dr William Gould</item>
+               <item>Mr Thomas Goodwin</item>
+               <item>Mr Timothy Goodwin</item>
+               <item>Mr Job Glover</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>*** Mr James Hallet</item>
+               <item>*** Mr John Hill</item>
+               <item>*** <hi>Sir</hi> Joſeph Herne</item>
+               <item>*** <hi>Sir</hi> William Hedges</item>
+               <item>*** Mr Thomas Hawkins</item>
+               <item>** <hi>The Lady</hi> Elizabeth Her<g ref="char:EOLhyphen"/>bert</item>
+               <item>* Mr Edward Harriſon</item>
+               <item>* Mr Edward Harman</item>
+               <item>* Mr John Haward</item>
+               <item>* Mr Giles Haward</item>
+               <item>* <hi>The Executors of</hi> Thomas Haughton</item>
+               <item>* <hi>Sir</hi> James Houblon</item>
+               <item>* <hi>Sir</hi> Thomas Huſſey</item>
+               <item>* Mr Richard Hoare</item>
+               <item>* Mr Oſwald Hoskins</item>
+               <item>* Mr Nathaniel Holtonjun.</item>
+               <item>* Mrs Mary Hunter</item>
+               <item>* Bedingfield Higham Sen.</item>
+               <item>* Frederick Herne, <hi>Eſq</hi>
+               </item>
+               <item>Mr William Hewer</item>
+               <item>Mr Robert Horlock</item>
+               <item>
+                  <hi>The moſt Noble his Grace Duke</hi> Hamilton</item>
+               <item>James Harris, <hi>Eſq</hi>
+               </item>
+               <item>James Herbert, <hi>Eſq</hi>
+               </item>
+               <item>Richard How <hi>of</hi> Worm<g ref="char:EOLhyphen"/>ley, <hi>Eſq</hi>
+               </item>
+               <item>Mr John Hodges</item>
+               <item>Mrs Elizabeth Hodges</item>
+               <item>Mr Adam Handcock</item>
+               <item>Mr Robert Haskey</item>
+               <item>Mr William Hatcherley</item>
+               <item>Mr John Heape</item>
+               <item>Mr John Heale</item>
+               <item>Mr Anthony Hill</item>
+               <item>
+                  <hi>The Right Honourable</hi> Henry <hi>Lord</hi> Herbert</item>
+               <item>
+                  <hi>The Honourable</hi> Robert Herbert</item>
+               <item>
+                  <hi>The Honourable</hi> Charles Herbert</item>
+               <item>Sir John Houblon</item>
+               <item>
+                  <hi>The Lady</hi> Catharine Her<g ref="char:EOLhyphen"/>bert</item>
+               <item>
+                  <hi>The Lady</hi> Margaret Her<g ref="char:EOLhyphen"/>bert</item>
+               <item>
+                  <hi>The Lady</hi> Elizabeth Her<g ref="char:EOLhyphen"/>bert</item>
+               <item>
+                  <hi>The Lady</hi> Ann Herbert</item>
+               <item>
+                  <hi>The Lady</hi> Ann Hedges</item>
+               <item>Mr Nathaniel Harford</item>
+               <item>Mr Chriſtopher Haines</item>
+               <item>Mr Robert Harrington</item>
+               <item>Mrs Salome Harriot</item>
+               <item>Mr John Handley</item>
+               <item>Mr William Harriſon</item>
+               <item>Mrs Priſcilla Harris</item>
+               <item>Mrs Jane Haskey</item>
+               <item>Mrs Lydia Van Hatton</item>
+               <item>Mr Bedingfield Higham Jun.</item>
+               <item>Mr John Hawley</item>
+               <item>Mrs Ann Haward</item>
+               <item>Richard How of <hi>Cony</hi>-Hatch, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Ann Hill</item>
+               <item>Mr William Haskey</item>
+               <item>Mrs Elizabeth Herbert</item>
+               <item>Mrs Suſannah Hedges</item>
+               <item>Mr Michael Hyde</item>
+               <item>Mrs Barbara Hyde</item>
+               <item>Mr Nathaniel Hickman</item>
+               <item>Mr William Holmes</item>
+               <item>Mr William Hodges</item>
+               <item>Mr Guſtavus Horne</item>
+               <item>Mr Benjamin Holly</item>
+               <item>Mr Thomas Holt <hi>of Streatham</hi>
+               </item>
+               <item>Mr Thomas Holt <hi>of Oxon</hi>
+               </item>
+               <item>Mr Robert Horlock Sen.</item>
+               <item>Mr Robert Horlock Jun.</item>
+               <item>Mr Francis Hobard</item>
+               <item>Mr John Hoyle</item>
+               <item>Dame Mary Houblon</item>
+               <item>Mr Thomas Husbands</item>
+               <item>Mr William Hulls</item>
+               <item>James Hacket, <hi>Eſq</hi>
+               </item>
+            </list>
+            <list>
+               <head>J</head>
+               <item>*** JOhn James, <hi>Eſq</hi>
+               </item>
+               <item>*** Mr Thomas Jenkins</item>
+               <item>*** Mrs Dorothy James</item>
+               <item>*** George Jackſon, <hi>Eſq</hi>
+               </item>
+               <item>** Mr Thomas Jeeve <hi>deceaſed</hi>
+               </item>
+               <item>** Mr Thomas Ibbot</item>
+               <item>* Mr Thomas Jones</item>
+               <item>Mrs Ann Jones</item>
+               <item>
+                  <hi>The Right Honourable</hi> Henrietta Lewis Jeffryes</item>
+               <item>Mrs Frances James</item>
+               <item>Mr Ebenezar Jones</item>
+               <item>Mr John Jones</item>
+               <item>Mr Edward Jordan</item>
+               <item>Mrs Claudia St. John</item>
+               <item>Mr Henry Johnſon</item>
+               <item>
+                  <hi>Sir</hi> Jeffery Jefferyes</item>
+               <item>Dr James</item>
+               <item>Mr Hogan James</item>
+               <item>Mrs Sarah Ingram</item>
+               <item>Mr Jackſon <hi>of</hi> Faccomb</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>* <hi>SIR</hi> Godfrey Kneller</item>
+               <item>Mr Maurice Kay</item>
+               <item>Mr Jeffery <hi>and</hi> Mr Mi<g ref="char:EOLhyphen"/>chael Keating</item>
+               <item>Mrs Margaret Keating</item>
+               <item>Mr Thomas Kemp</item>
+               <item>Mrs Sarah Kettleby</item>
+               <item>Mrs Mary Kirton</item>
+               <item>Mr Henry Kible</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>** Mr Henry Lyon</item>
+               <item>** Mr Robert Levet</item>
+               <item>* <hi>The Right Honourable</hi> James <hi>Lord Viſcount</hi> Lanesbrough</item>
+               <item>* George London, <hi>Eſq</hi>
+               </item>
+               <item>* Mr John Lanyon</item>
+               <item>* Mr John Lund</item>
+               <pb n="3" facs="tcp:31796:2"/>
+               <item> 
+                  <hi>The Burgeſſes of</hi> Leiceſter</item>
+               <item>
+                  <hi>The Mayon, Bailiff, and Burgeſſes of</hi> Leiceſter</item>
+               <item>
+                  <hi>The Honourable</hi> Chriſto<g ref="char:EOLhyphen"/>pher Leyoncrona</item>
+               <item>Dennis Lyddall, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Catharine Lacy</item>
+               <item>Mrs Mary Levins</item>
+               <item>Mr Bejamin Levie</item>
+               <item>Mr Nicholas Luke</item>
+               <item>Henry Lloyd, <hi>Eſq</hi>
+               </item>
+               <item>Mr George Latton</item>
+               <item>Mr Charles Lancaſter</item>
+               <item>Mrs Heſter Lamouch</item>
+               <item>Mr Roger Lewis</item>
+               <item>Mr John Lee</item>
+               <item>Mr Thomas Lewis</item>
+               <item>
+                  <hi>Sir</hi> Berkley Lucey</item>
+               <item>
+                  <hi>The Lady</hi> Leigh</item>
+               <item>John Latton, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Dorothy Latton</item>
+               <item>Mr Paul Lacaux</item>
+               <item>Mr William Lancaſter</item>
+               <item>Mr John Lapie</item>
+               <item>Mrs Sarah Lea</item>
+               <item>Mrs Ann Lewin</item>
+               <item>Mr Oliver Lewis</item>
+               <item>Mr John Leonard</item>
+               <item>Mrs Dorothy Leigh</item>
+               <item>Mr Robert Le Plaiſter</item>
+               <item>Mr Stephen Lilly</item>
+               <item>Mr William Lindſey</item>
+               <item>Mrs Jane Lyon</item>
+               <item>Mrs Lytherland</item>
+               <item>Mrs Elizabeth Lytherland</item>
+               <item>Mr John Lytherland</item>
+               <item>Mrs Bryana Lloyd</item>
+               <item>Mrs Elizabeth Lloyd</item>
+               <item>Mr Peter Lupart</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>*** <hi>SIR</hi> Thomas Mack<g ref="char:EOLhyphen"/>worth, <hi>Bar.</hi>
+               </item>
+               <item>*** <hi>The Honourable</hi> Philippa Mohun</item>
+               <item>*** Bulkley Mackworth, <hi>Eſq</hi>
+               </item>
+               <item>*** Mr Thomas Minſhall</item>
+               <item>*** Mr James Markwick Jun.</item>
+               <item>** <hi>Sir</hi> John Mordant, <hi>Bar.</hi>
+               </item>
+               <item>** Dr Edward Maynard</item>
+               <item>* Arthur Moore, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Luke Moore</item>
+               <item>* <hi>The Right Honourable the Earl of</hi> Montroth</item>
+               <item>* <hi>Major</hi> John Monke</item>
+               <item>* William Minſhall, <hi>Eſq</hi>
+               </item>
+               <item>* Mrs Margaret Maſſen<g ref="char:EOLhyphen"/>berd</item>
+               <item>* Mrs Elizabeth Maynard</item>
+               <item>* William Milman, <hi>Eſq</hi>
+               </item>
+               <item>* Mrs Mary Minſhall</item>
+               <item>* Mr George Martyn</item>
+               <item>
+                  <hi>The Reverend</hi> Mr John Marſhal</item>
+               <item>Mr William Maynard</item>
+               <item>Mr Samuel Monke</item>
+               <item>Mr William Moore</item>
+               <item>Mr Edward Morris</item>
+               <item>Mrs Ann Marſhall</item>
+               <item>Mrs Letitia Maddox</item>
+               <item>John Meyrick, <hi>Eſq</hi>
+               </item>
+               <item>Mr Thomas Milward</item>
+               <item>Mr Robert Mitchel</item>
+               <item>Mrs Elizabeth Mildmay</item>
+               <item>Mrs Jane Mildmay</item>
+               <item>Mrs Lucy Mildmay</item>
+               <item>Mr Richard Moſtin</item>
+               <item>Mrs Hannah Maddox</item>
+               <item>Mr Nathaniel Marſhal</item>
+               <item>Mr Nicholas Martyn</item>
+               <item>Mr William Maſemore</item>
+               <item>Mr Venterus Mandy</item>
+               <item>Mr Daniel Mandy</item>
+               <item>Mr James Mackburney</item>
+               <item>Mr Edward Maddox</item>
+               <item>Mr Charles Maddox</item>
+               <item>Mrs Martha Maddox</item>
+               <item>Mr George Maſon</item>
+               <item>
+                  <hi>The Lady</hi> Maſon</item>
+               <item>Mrs Mary Maſon</item>
+               <item>Mrs Elizabeth Mapſon</item>
+               <item>Mrs Barbara Maynard</item>
+               <item>Mrs Elizabeth Mapſon</item>
+               <item>Mrs Elizabeth Mack<g ref="char:EOLhyphen"/>worth</item>
+               <item>Mr Thomas Merven</item>
+               <item>Mrs Margaret Milward</item>
+               <item>Mrs Elizabeth Mitchel</item>
+               <item>Mrs Sarah Mills</item>
+               <item>Mrs Martha Miller</item>
+               <item>Mr Richard Mitchel</item>
+               <item>Mrs Mary Moore</item>
+               <item>Mr Charles Moore</item>
+               <item>Mrs Jane Morehead</item>
+               <item>Mrs Mary Moſtin</item>
+               <item>Mr Sidney Moſtin</item>
+               <item>Mr Joſeph Mondy</item>
+               <item>Mr James Morgan</item>
+               <item>Mrs Elizabeth Munctley</item>
+               <item>Mrs Mary Maddox</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>*** RObert Nelſon, <hi>Eſq</hi>
+               </item>
+               <item>** Mr John Newland</item>
+               <item>** Mr William Norcliffe</item>
+               <item>* Edward Nicholas, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Joſeph Newel</item>
+               <item>* <hi>Sir</hi> Edward Nevil</item>
+               <item>* Mr John Newborough</item>
+               <item>* Mrs Elizabeth North</item>
+               <item>Mr William Nicholas</item>
+               <item>Mr Edward Norwood</item>
+               <item>
+                  <hi>The Honourable the Lady</hi> Bridget Noel</item>
+               <item>
+                  <hi>The Honourable the Lady</hi> Suſannah Noel</item>
+               <item>Mr John Newy</item>
+               <item>Mr William Newland</item>
+               <item>Mrs Catharine Newton</item>
+               <item>John Nicol, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Mary Nicol</item>
+               <item>Mr John Nicol Jun.</item>
+               <item>Mrs Sarah Nicol</item>
+               <item>Mr John Nicol <hi>of the Bank</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>*** Mr William Oldys</item>
+               <item>* Mr John Oriot</item>
+               <item>* Mr Thomas Osborne</item>
+               <item>Mrs Rebecca Osbolſton</item>
+               <item>
+                  <hi>The Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God</hi> John <hi>Lord Biſhop of</hi> Lichfield <hi>and</hi> Coventry</item>
+               <item>Mrs Ann Crew Offley</item>
+               <item>Mr Thomas Oldfeild</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>*** WIlliam Powel, <hi>Eſq</hi>
+               </item>
+               <item>*** Daniel Parke, <hi>Eſq</hi>
+               </item>
+               <item>*** William Player, <hi>Eſq</hi>
+               </item>
+               <item>*** Mr William Pemble</item>
+               <item>*** Edw. Pryſe, <hi>Eſq deceaſed</hi>
+               </item>
+               <item>*** John Pery, <hi>Eſq</hi>
+               </item>
+               <item>*** Thomas Phipps Jun.</item>
+               <item>** Thomas Pitt, <hi>Eſq</hi>
+               </item>
+               <item>** <hi>The Right Honourable the Lady</hi> Grace Pierrepoint</item>
+               <item>* Mr William Prince</item>
+               <item>* George Paske, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Humphrey Primate</item>
+               <item>* Mr Lewis Prothero</item>
+               <item>* Mr Matthew Parrodin</item>
+               <item>* Mrs Elizabeth Porter</item>
+               <item>* Mr Patience Parrot</item>
+               <item>* Mr William Preſcott</item>
+               <item>* Mrs Elizabeth Potts</item>
+               <item>* Mrs Ann Porter</item>
+               <item>* Mr Richard Porter</item>
+               <item>Robert Price, <hi>Eſq</hi>
+               </item>
+               <item>William Pugh, <hi>Eſq</hi>
+               </item>
+               <item>Mr Abraham Peraudin</item>
+               <item>Mr Hugh Preſton</item>
+               <item>Mr John Peters</item>
+               <item>Symon Patrick, <hi>Eſq</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Thomas Peirſehouſe</item>
+               <item>
+                  <hi>Capt.</hi> Charles Potts</item>
+               <item>Mr Benjamin Palmer</item>
+               <item>Mrs Mary Parker</item>
+               <item>Mrs Mary Perkins</item>
+               <item>Mrs Ann Perſhall</item>
+               <item>Mrs Heſter Perraudin</item>
+               <item>Mr Charles Price</item>
+               <item>Mr James Pigot</item>
+               <item>Mr Henry Plowman</item>
+               <item>
+                  <hi>The Right Honourable the Counteſs of</hi> Pembroke</item>
+               <item>
+                  <hi>Sir</hi> Thomas Powel</item>
+               <item>Dr Ralph Perkins</item>
+               <item>Stephen Piper, <hi>Eſq</hi>
+               </item>
+               <item>John Pugh, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Sarah Patient</item>
+               <item>Mr Caleb Patient</item>
+               <item>Mr John Parſons</item>
+               <item>Mr Caleb Parnham</item>
+               <item>Mr Matthew Parry</item>
+               <item>Mrs Sarah Playle</item>
+               <item>Mrs Dorothy Panton</item>
+               <item>Mr Robert L'Plaiſtier</item>
+               <item>Mr Richard Preſland</item>
+               <item>Mr Nathaniel Peacock</item>
+               <item>Mrs Penelope Perry</item>
+               <item>Mrs Bridget Perſhall</item>
+               <item>Mrs Charlot Perſhall</item>
+               <item>Mr George Preſland</item>
+               <item>Mr John Philips</item>
+               <item>Mr Robert Philips</item>
+               <item>Mr Thomas Price</item>
+               <item>Mr Charles Picaut</item>
+               <item>Mr John Phipps Sen.</item>
+               <item>Mr John Phipps Jun.</item>
+               <item>Mr Henry Phipps</item>
+               <item>Mr Paul Phipps</item>
+               <item>Mrs Hannah Prime</item>
+               <item>Mrs Jane Pyot</item>
+               <item>Mr Matthew Portman</item>
+               <item>Mrs Sarah Pooley</item>
+               <item>Mrs Hannah Puller</item>
+               <item>Mr Henry Parſons</item>
+            </list>
+            <list>
+               <head>Q</head>
+               <item>** Mr Joſeph Quaſh</item>
+               <item>* Mrs Elizabeth Quick</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>*** Mr George Read</item>
+               <item>* Thomas Railton, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Philip Richardſon</item>
+               <item>* Mr Richard Richardſon <hi>of</hi> Beaufort <hi>Buildings</hi>
+               </item>
+               <item>
+                  <hi>The Right Honourable the Counteſs of</hi> Rochford</item>
+               <item>Mrs Elizabeth Rainsford</item>
+               <item>Mrs Joan Reeves</item>
+               <item>Mrs Elizabeth Rycroft</item>
+               <item>Mr Thomas Robinſon</item>
+               <item>Mr Henry Rogers</item>
+               <item>Mr John Rogers</item>
+               <item>Mrs Mary Robſon</item>
+               <item>Mr Joſeph Rowland</item>
+               <item>Mr Thomas Ruddock</item>
+               <item>
+                  <hi>The Right Honourable the Counteſs of</hi> Rutland</item>
+               <item>Dr Richard Roderick</item>
+               <item>Richard Richardſon, <hi>Eſq</hi>
+               </item>
+               <item>Mr Stephen Ram</item>
+               <item>Mrs Mary Reynolds</item>
+               <item>Mrs Mary Rice</item>
+               <item>Mrs Mary Rycardy</item>
+               <item>Mr Caleb Rocket</item>
+               <item>Mr Robert Robinſon</item>
+               <item>Mrs Mary Robins</item>
+               <item>Mr John Rudyard</item>
+               <item>Mr Anthony Rous</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>*** Mr William Shiers</item>
+               <item>*** Mr Richard Savage</item>
+               <item>** Mrs Heſter Sherman</item>
+               <item>** Mr Nathaniel Spinks</item>
+               <item>** Mrs Grace Shaw</item>
+               <item>* Mr John Sadlier</item>
+               <item>* Mr Edmond Stagg</item>
+               <item>* Mr George Stoakes</item>
+               <item>* Mrs Alice Simmons</item>
+               <item>* Mr William Spencer</item>
+               <item>* Mr Richard Stephens</item>
+               <item>* <hi>The Lady</hi> Elizabeth Stone<g ref="char:EOLhyphen"/>houſe</item>
+               <item>* Mr Edward Solm</item>
+               <item>* Daniel Slade</item>
+               <item>William Sydenham, <hi>Eſq</hi>
+               </item>
+               <item>Mr Humphrey Smith <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi>
+               </item>
+               <item>Mr Richard Shapleigh</item>
+               <item>Mr Richard Sadleir</item>
+               <item>Mrs Mary Shalmer</item>
+               <item>Mr Thomas Spencer</item>
+               <item>William Scrimpſhire, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Joſina Shrawley</item>
+               <item>Mrs Margaret Saunders</item>
+               <item>Mr Thomas Sampſon</item>
+               <item>Mr Samuel Slater</item>
+               <item>Mr Stephen Stantial</item>
+               <item>Mr John Shelly</item>
+               <item>Mr Obadiah Sedgwick</item>
+               <item>Mr Nathaniel Smith</item>
+               <pb n="4" facs="tcp:31796:3"/>
+               <item> Mr Elmes Spinks</item>
+               <item>Mr Robert Styles</item>
+               <item>Mr John Shipton</item>
+               <item>Mrs Margaret Smith</item>
+               <item>Mr Edmund Skynner</item>
+               <item>
+                  <hi>Madam</hi> Sackvil</item>
+               <item>Mr Gerrard Saltmarſh</item>
+               <item>Mr William Swann</item>
+               <item>Mr Ann Sadlier</item>
+               <item>Mr Ann Sharp</item>
+               <item>Mrs Mrs Ann Slater</item>
+               <item>Mrs Arabella Slaney</item>
+               <item>Mrs Ann Shelden</item>
+               <item>Mr Humphrey Steere</item>
+               <item>Mr Joſeph Spencer</item>
+               <item>Mrs Martha Spencer</item>
+               <item>Mrs Annaſtatia Smith</item>
+               <item>Mrs Jane Smith</item>
+               <item>Mr Chriſtopher Smith</item>
+               <item>Mr Robert Simmons</item>
+               <item>Mrs Heſter Skrine</item>
+               <item>Mr William Shipman</item>
+               <item>Mrs Catherine Swinden</item>
+               <item>Mr Samuel Short</item>
+               <item>Mr John Somers Scower</item>
+               <item>Charles Stuart</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>*** SAmuel Trotman, <hi>Eſq</hi>
+               </item>
+               <item>*** Mr Edmond Tayler</item>
+               <item>*** Mr John Thrale</item>
+               <item>*** Mr James Trioch</item>
+               <item>*** Mr Abraham Tillard</item>
+               <item>** Mr John Teſhmaker</item>
+               <item>* Mrs Mary Tutte</item>
+               <item>* Mr William Twyford</item>
+               <item>* Gilbert Talbot, <hi>Eſq</hi>
+               </item>
+               <item>* Mrs Elizabeth Thompſon</item>
+               <item>* Mr Walter Thomas</item>
+               <item>Benjamin Timewel, <hi>Eſq</hi>
+               </item>
+               <item>Mr Joſeph Tayler</item>
+               <item>Mr Michael Thompſon</item>
+               <item>Mr Nathaniel Turline</item>
+               <item>Mr Jacob Turner</item>
+               <item>Mr John Tylladam</item>
+               <item>Mr Chriſtopher Toms</item>
+               <item>Mr Nicholas Tooke</item>
+               <item>Mr Charles Torriano</item>
+               <item>Mr Edward Turgis</item>
+               <item>Dr Robert Tayler</item>
+               <item>Mr Francis Twaits</item>
+               <item>Mrs Elizabeth Trafford</item>
+               <item>Mr James Tainton</item>
+               <item>Mr Thomas Thornton</item>
+               <item>Mr Nicholas Tucker</item>
+               <item>Mr Morris Tobin</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>* <hi>SIR</hi> Thomas Vernon</item>
+               <item>Mr Richard Vaughan</item>
+               <item>Mrs Elizabeth Vachel</item>
+               <item>Mrs Martha Vaughan</item>
+               <item>Mr John Vince</item>
+               <item>Mrs Catharine Upton</item>
+               <item>Mr Richard Vaughan <hi>de<g ref="char:EOLhyphen"/>ceaſed</hi>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>*** Mr William Waller</item>
+               <item>*** Mr Hugh Watkin<g ref="char:EOLhyphen"/>ſon</item>
+               <item>*** Mrs Mary White</item>
+               <item>* Dr John Wallis</item>
+               <item>* <hi>The Right Reverend Dr</hi> William Wake</item>
+               <item>* <hi>Sir</hi> Edmund Warcup</item>
+               <item>* <hi>Sir</hi> Paul Whitchcot</item>
+               <item>* John Webb, <hi>Eſq</hi>
+               </item>
+               <item>* Mrs Mary Weaver</item>
+               <item>* Mr Henry Williams</item>
+               <item>* Mr Richard Worſdale</item>
+               <item>* Mrs Lucy Wroights</item>
+               <item>* John Wallis, <hi>Eſq</hi>
+               </item>
+               <item>* Cavendiſh Wedon, <hi>Eſq</hi>
+               </item>
+               <item>* Mr Thomas Whitehead</item>
+               <item>* Mr Charles Writtle</item>
+               <item>* Mr John Ward</item>
+               <item>* Mr Richard Watkins</item>
+               <item>* Mr William Wahup</item>
+               <item>* Mr Stephen Weſton</item>
+               <item>* Mr Henry Windham</item>
+               <item>* Mrs Mary Wingfield</item>
+               <item>* Mr White Wolley</item>
+               <item>
+                  <hi>The Honourable the Lady</hi> Mary Willoughby</item>
+               <item>Peter Whitecomb, <hi>Eſq</hi>
+               </item>
+               <item>Mr Philip Weak</item>
+               <item>Mr John Woodward</item>
+               <item>Charles Wheeler, <hi>Eſq</hi>
+               </item>
+               <item>James Whitwrong, <hi>Eſq</hi>
+               </item>
+               <item>
+                  <hi>Dame</hi> Arabella Wiſeman</item>
+               <item>Mr William Watkins</item>
+               <item>Mrs Elizabeth Warren</item>
+               <item>Mr Robert Webſter</item>
+               <item>Mr Thomas Weedon</item>
+               <item>Mr William Willis</item>
+               <item>Mr William Williams</item>
+               <item>Mr John Willy</item>
+               <item>Mrs Arabella Wolley</item>
+               <item>James Woodhouſe, <hi>Eſq</hi>
+               </item>
+               <item>Mr Samuel Watts</item>
+               <item>Mrs Suſannah Warner</item>
+               <item>Mrs Suſannah Ward</item>
+               <item>Mr John Waſe</item>
+               <item>Mrs Elizabeth Watkins</item>
+               <item>Mr Ambroſe Warren</item>
+               <item>Mrs Dorothy Wallup</item>
+               <item>Mrs Alitia Wallup</item>
+               <item>Mr John Walker</item>
+               <item>Mr Leonard Witherley</item>
+               <item>Mr Thomas Willis</item>
+               <item>Mr Joſeph Wilſon</item>
+               <item>Mr Anthony Wilſon</item>
+               <item>Mr James White</item>
+               <item>Mr John Wilſon</item>
+               <item>Mr William Wyne</item>
+               <item>Mr Henry White</item>
+               <item>Mr Thomas Wilmer</item>
+               <item>Mrs Sarah Wilkin</item>
+               <item>Mr Richard Wilkin</item>
+               <item>Mr Joſeph Whitehead</item>
+               <item>Mr David Williams</item>
+               <item>Mrs Margaret Wyat</item>
+               <item>Mr Thomas Witbye</item>
+               <item>Mr Mountague Wood</item>
+               <item>Mr Richard Wood</item>
+               <item>Mrs Ann Wolley</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>*** WIlliam Young, <hi>Eſq</hi>
+               </item>
+               <item>Mrs Mary Yallop</item>
+               <item>Mr Thomas Yalden</item>
+            </list>
+            <list>
+               <head>Z</head>
+               <item>
+                  <hi>THE Honourable the Lady</hi> Ann Zeuliſtyne</item>
+            </list>
+         </div>
+         <div type="list">
+            <head>A LIST of the Preſent Committee.</head>
+            <list>
+               <head>The moſt Noble the Duke of <hi>Leeds.</hi>
+               </head>
+               <item>
+                  <hi>Sir</hi> Humphrey Mackworth.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Mackworth <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> William Hedges</item>
+               <item>Samuel Trotman <hi>Eſq</hi>
+               </item>
+               <item>Paul Docminique <hi>Eſq</hi>
+               </item>
+               <item>Daniel Park <hi>Eſq</hi>
+               </item>
+               <item>William Yong <hi>Eſq</hi>
+               </item>
+               <item>John James <hi>Eſq</hi>
+               </item>
+               <item>William Player <hi>Eſq</hi>
+               </item>
+               <item>
+                  <hi>Mr</hi> Richard Curtis</item>
+               <item>
+                  <hi>Mr</hi> Richard Chauncey</item>
+               <item>
+                  <hi>Mr</hi> James Hallet</item>
+               <item>Thomas Breton <hi>Eſq</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>F. Collins</hi> in the <hi>Old-Bailey.</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
